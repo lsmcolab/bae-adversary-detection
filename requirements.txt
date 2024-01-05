@@ -1,0 +1,8 @@
+gymnasium
+matplotlib
+numpy
+pandas
+psutil
+pygame
+pympler
+statsmodels
